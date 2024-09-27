@@ -1,6 +1,6 @@
 <form action="action_page.php"ii>
   <div class="container">
-    <h1>SNIPPET COMMERCE 360 PVT LTD NEW USER REGISTER FOR DEVOPS LEARNING!!</h1>
+    <h1>SNIPPET COMMERCE 360 PVT LTD USER REGISTERATION FOR DEVOPS LEARNING!!</h1>
     <p>Please fill in this form to create an account!</p>
     <hr>
      
