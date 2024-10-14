@@ -1,10 +1,10 @@
 <form action="action_page.php"ii>
   <div class="container">
-    <h1>SNIPPET COMMERCE 360 PVT LTD NEW USER REGISTERATION FOR DEVOPS LEARNING!!</h1>
+    <h1>NEW USER REGISTERATION FOR DEVOPS LEARNING!!</h1>
     <p>Please fill in this form to create an account!</p>
     <hr>
      
-    <label for="Name"><b>Enter full Name</b></label>
+    <label for="Name"><b>Enter the full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
