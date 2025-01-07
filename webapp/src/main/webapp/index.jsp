@@ -12,8 +12,8 @@
     <input type="text" placeholder="Enter the :moible number" name="mobile" id="mobile" required>
     <br>
 
-    t
-    label for="email"><b>Enter Email</b></label>
+    
+    <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email address" name="email" id="email" required>
     <br>
 
