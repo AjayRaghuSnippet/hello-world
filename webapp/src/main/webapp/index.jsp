@@ -1,10 +1,10 @@
 <form action="action_page.php"ii>
   <div class="container">
-    <h1>NEW USER REGISTERATION FOR DEVOPS LEARNING</h1>
+    <h1USER REGISTERATION FOR DEVOPS LEARNING</h1>
     <p>Please fill in this form to create an account!</p>
     <hr>
      
-    <label for="Name"><b>Enter the full Name</b></label>
+    <label for="Name" style="width: 120px;"><b>Enter the Full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
@@ -12,7 +12,8 @@
     <input type="text" placeholder="Enter the :moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    t
+    label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email address" name="email" id="email" required>
     <br>
 
