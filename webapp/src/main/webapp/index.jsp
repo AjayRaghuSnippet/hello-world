@@ -1,7 +1,7 @@
 <form action="action_page.php"ii>
   <div class="container">
     <h1USER REGISTERATION FOR DEVOPS LEARNING:)</h1>
-    <p>Please fill in this form to create an account!</p>
+    <p>Please fill in this form to create an account on Snippet Commerce 360!</p>
     <hr>
      
     <label for="Name" style="width: 120px;"><b>Enter the Full Name</b></label>
