@@ -1,6 +1,6 @@
 <form action="action_page.php"ii>
   <div class="container">
-    <h1USER REGISTERATION FOR DEVOPS LEARNING</h1>
+    <h1 USER REGISTERATION FOR DEVOPS LEARNING:)</h1>
     <p>Please fill in this form to create an account!</p>
     <hr>
      
