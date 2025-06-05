@@ -32,6 +32,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You and Happy Learning from Snippet Commerce 360 Pvt Ltd!! </h1>
+   <h1> ThankYou and Happy Learning from Snippet Commerce 360 Pvt Ltd!! </h1>
 
 </:form>
